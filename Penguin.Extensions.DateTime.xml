@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Penguin.Extensions.DateTime</name>
+    </assembly>
+    <members>
+        <member name="M:Penguin.Extensions.DateTime.DateTimeExtensions.StartOfWeek(System.DateTime,System.DayOfWeek)">
+            <summary>
+            Returns a DateTime representing the begining of the week the requested datetime falls within
+            </summary>
+            <param name="dt">The datetime to check</param>
+            <param name="startOfWeek">The day of the week to use as the first day</param>
+            <returns>The 00:00 of the day that marks the start of the week</returns>
+        </member>
+    </members>
+</doc>
