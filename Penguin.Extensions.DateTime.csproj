@@ -6,6 +6,7 @@
     <Description>DateTime extension methods. Currently only contains a method for finding the start of the week</Description>
     <AssemblyName>Penguin.Extensions.DateTime</AssemblyName>
     <RootNamespace>Penguin.Extensions.DateTime</RootNamespace>
+    <DocumentationFile>Penguin.Extensions.DateTime.xml</DocumentationFile>
   </PropertyGroup>
   <Import Project="Penguin.Projects.Shared\Penguin.Projects.Shared.csproj" />
 </Project>
