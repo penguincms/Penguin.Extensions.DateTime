@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <PackageProjectUrl>https://github.com/penguincms/Penguin.Extensions.DateTime</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/PenguinCMS/Penguin.Extensions.DateTime</PackageProjectUrl>
     <Version>5.0.5</Version>
     <Description>DateTime extension methods. Currently only contains a method for finding the start of the week</Description>
     <AssemblyName>Penguin.Extensions.DateTime</AssemblyName>
